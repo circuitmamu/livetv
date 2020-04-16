@@ -395,7 +395,11 @@ https://m-c02-j2apps.s.llnwi.net/hls/7019.ABPAsmita.in.m3u8
 #EXTTV: hd,sd;hindi;8045.QIndiaTV.in;https://j2apps.s.llnwi.net/is1/media/images/8045.QIndiaTV.in/1x1/2x/test_pic1581064556841.jpg
 #EXTLOGO: https://j2apps.s.llnwi.net/is1/media/images/8045.QIndiaTV.in/1x1/2x/test_pic1581064556841.jpg
 https://m-c010-j2apps.s.llnwi.net/hls/8045.QIndiaTV.in.m3u8
-#EXTINF: -1 tvg-id="7556.Republic.Bharat" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-country="IN" tvg-url="" tvg-logo="" group-title="News", Republic Bharat
-#EXTTV: hd,sd;hindi;7556.Republic.Bharat
-#EXTLOGO: 
+#EXTINF: -1 tvg-id="7556.Republic.Bharat" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-country="IN" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg" group-title="News", Republic Bharat
+#EXTTV: hd,sd;hindi;7556.Republic.Bharat;https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg
+#EXTLOGO: https://upload.wikimedia.org/wikipedia/commons/6/6a/Republic_Bharat_Logo.jpg
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF: -1 tvg-id="News18.Gujarati" tvg-name="News18 Gujarati" tvg-language="Gujarati" tvg-country="IN" tvg-url="" tvg-logo="https://static.gujarati.news18.com/static-guju/uploads/2020/03/gujarati.png" group-title="News", News18 Gujarati
+#EXTTV: hd,sd;gujarati;News18.Gujarati;https://static.gujarati.news18.com/static-guju/uploads/2020/03/gujarati.png
+#EXTLOGO: https://static.gujarati.news18.com/static-guju/uploads/2020/03/gujarati.png
+ https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_5_av-p.m3u8
